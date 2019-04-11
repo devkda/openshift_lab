@@ -1,0 +1,4 @@
+starlette==0.11.4
+uvicorn==0.6.1
+requests-async==0.2.0
+aredis==1.1.4
